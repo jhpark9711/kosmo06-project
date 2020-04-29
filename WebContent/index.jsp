@@ -7,6 +7,6 @@
 <title>index.jsp</title> 
 </head>
 <body>
-	<h2>git 사용하기</h2>
+	<h2>git 사용하기</h2> 
 </body>
 </html> 
