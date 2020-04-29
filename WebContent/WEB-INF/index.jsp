@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>index.jsp</title> 
 </head>
 <body>
 	<h2>git 사용하기</h2>
