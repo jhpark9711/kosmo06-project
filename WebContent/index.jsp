@@ -12,6 +12,10 @@
 		<li>git init-로컬 저장소 생성</li>
 		<li>git config-git</li>
 		<li>세번째</li>
+<<<<<<< HEAD
+=======
+	
+>>>>>>> branch 'master' of https://github.com/jhpark9711/kosmo06.git
 	</ul>
 </body> 
 </html> 
