@@ -11,7 +11,7 @@
 	<ul>
 		<li>git init-로컬 저장소 생성</li>
 		<li>git config-git</li>
-	
+		<li>나도 3</li>
 	</ul>
 </body> 
 </html> 
