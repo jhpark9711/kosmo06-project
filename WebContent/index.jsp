@@ -8,5 +8,5 @@
 </head>
 <body>
 	<h2>git 사용하기</h2> 
-</body>
+</body> 
 </html> 
