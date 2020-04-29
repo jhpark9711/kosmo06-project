@@ -8,5 +8,10 @@
 </head>
 <body>
 	<h2>git 사용하기</h2> 
+	<ul>
+		<li>git init-로컬 저장소 생성</li>
+		<li>git config-git</li>
+	
+	</ul>
 </body> 
 </html> 
